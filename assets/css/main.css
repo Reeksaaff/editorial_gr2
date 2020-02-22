@@ -28,7 +28,8 @@ footer, header, hgroup, menu, nav, section {
   display: block; }
 
 body {
-  line-height: 1; }
+  line-height: 1;
+background-color: pink; }
 
 ol, ul {
   list-style: none; }
@@ -1001,7 +1002,8 @@ header.major > :last-child {
   border-bottom: solid 3px #886af5;
   display: inline-block;
   margin: 0 0 2em 0;
-  padding: 0 0.75em 0.5em 0; }
+  padding: 0 0.75em 0.5em 0;
+background-color: pink; }
 
 header.main > :last-child {
   margin: 0 0 1em 0; }
